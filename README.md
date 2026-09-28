@@ -4,7 +4,7 @@ Aplicação mobile em React Native desenvolvida com Expo Go para agendamento de 
 
 ---
 
-## 📱 Telas
+##  Telas
 - **Login**: Tela de autenticação com Discord.
 - **Home**: Lista de partidas agendadas e filtros por categoria.
 - **Detalhes do Servidor**: Informações do jogo e jogadores confirmados.
@@ -12,7 +12,7 @@ Aplicação mobile em React Native desenvolvida com Expo Go para agendamento de 
 
 ---
 
-## 🚀 Como Executar no Expo Go
+##  Como Executar no Expo Go
 
 ### Pré-requisitos
 - **Node.js** instalado.
